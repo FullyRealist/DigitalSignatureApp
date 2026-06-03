@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0061: Использовать тело блока для локальной функции
+csharp_style_expression_bodied_local_functions = when_on_single_line
