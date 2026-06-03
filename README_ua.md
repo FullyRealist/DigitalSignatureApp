@@ -84,7 +84,7 @@ DigitalSignatureApp/
 #### 🚀 Збірка
 
 ```bash
-git clone <url-репозиторію>
+git clone https://github.com/FullyRealist/DigitalSignatureApp.git
 ```
 
 Відкрийте:
